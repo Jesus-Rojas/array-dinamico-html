@@ -64,3 +64,6 @@ function drawRows() {
 function send() {
   document.querySelector('#nameCompuesto').value
 }
+
+
+
